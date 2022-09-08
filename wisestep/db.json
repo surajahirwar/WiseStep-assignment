@@ -1,0 +1,98 @@
+{
+  "outlets": [
+    {
+      "id": 1,
+      "outlet": "Solidago Compositum",
+      "vehicles": [
+        {
+          "location": "delhi",
+          "car": "Tata",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "Toyota",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "Volkswagen",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "outlet": "Solidago",
+      "vehicles": [
+        {
+          "location": "delhi",
+          "car": "Daimler",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "Ford Motor",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "Race",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "outlet": "New Solidago",
+      "vehicles": [
+        {
+          "location": "delhi",
+          "car": "fast",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "speedx",
+          "status": true,
+          "time": "false"
+        },
+        {
+          "location": "delhi",
+          "car": "pacer",
+          "status": true,
+          "time": "false"
+        }
+      ]
+    }
+  ],
+  "userform": [
+    {
+      "name": "hello there",
+      "number": "",
+      "id": 2
+    },
+    {
+      "name": "suraj",
+      "number": "87987987987",
+      "id": 3
+    },
+    {
+      "name": "ram",
+      "number": "09898009809",
+      "id": 4
+    },
+    {
+      "name": "sdfasdf",
+      "number": "9090890809",
+      "id": 5
+    }
+  ]
+}
